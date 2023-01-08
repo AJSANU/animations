@@ -15,3 +15,10 @@ yarn add @emotion/styled
 <br/>
 yarn add video-react
 <br/>
+
+
+#output Video
+
+
+https://user-images.githubusercontent.com/76152559/211197121-db515370-ed6e-4290-a753-f1d337c9849e.mp4
+
